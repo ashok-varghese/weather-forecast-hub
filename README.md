@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Backend-Python-yellow?logo=python)
 ![Status](https://img.shields.io/badge/Status-Live-green)
 
-A professional weather dashboard that tracks global weather patterns and automatically updates itself every 24 hours using GitHub Actions.
+A professional weather dashboard that tracks global weather patterns and automatically updates itself 24x7 using GitHub Actions.
 
 
 ## 🚀 How it Works
